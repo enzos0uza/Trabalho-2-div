@@ -10,6 +10,7 @@ body{
     background-color: rgb(105, 203, 255);
     padding: 100px;
     margin: 300px;
+    
 }
 
 .amarelo{
@@ -28,4 +29,8 @@ body{
 
 .ex{
     padding-bottom: 300px;
+}
+
+.di{
+    padding-right: 350px;
 }
